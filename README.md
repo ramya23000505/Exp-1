@@ -7,26 +7,26 @@ To draw a UML diagram for an ATM and Banking System.
 
 # SRS (Procedure):
 
-List of diagrams:
+## List of diagrams:
 
-Use Case Diagram
+1. Use Case Diagram
 
-Class Diagram
+2. Class Diagram
 
-Activity Diagram
+3. Activity Diagram
 
-Package Diagram
+4. Package Diagram
 
-Communication Diagram
+5. Communication Diagram
 
-Sequence Diagram
+6. Sequence Diagram
 
-Actors Used-:
+## Actors Used-:
 
-Customer
-Manager
-ATM
-Employee
+1. Customer
+2. Manager
+3. ATM
+4. Employee
 
 # DIAGRAMS:
 ## USE CASE DIAGRAM
