@@ -10,10 +10,15 @@ To draw a UML diagram for an ATM and Banking System.
 List of diagrams:
 
 Use Case Diagram
+
 Class Diagram
+
 Activity Diagram
+
 Package Diagram
+
 Communication Diagram
+
 Sequence Diagram
 
 Actors Used-:
