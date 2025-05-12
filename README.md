@@ -24,8 +24,11 @@ To draw a UML diagram for an ATM and Banking System.
 ## Actors Used-:
 
 1. Customer
+
 2. Manager
+
 3. ATM
+
 4. Employee
 
 # DIAGRAMS:
